@@ -9,7 +9,6 @@ class V_Pet {
 
 private:
     sf::RenderWindow digiworld;
-    HWND hwnd = nullptr;
 
 public:
     V_Pet();
