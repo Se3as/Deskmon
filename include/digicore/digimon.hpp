@@ -1,10 +1,15 @@
 #pragma once
 
-class digimon {
+#include "utils/Includes.hpp"
 
-public:
-   
+class Digimon {
 
 private:
-  
+
+public:
+    Digimon();
+    ~Digimon();
+
+    void Profile();
+
 };
